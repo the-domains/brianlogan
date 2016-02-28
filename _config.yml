@@ -1,0 +1,28 @@
+name: brianlogan
+favicon: null
+layout_spectrum: 0.2078082957305014
+typography_spectrum: 0.06969776563346386
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.446485323831439
+  lightness: 0.40535631170496345
+  saturation: 0.08012606762349606
+  rhythmicContrast: 0.21708144969306886
+purpose: []
